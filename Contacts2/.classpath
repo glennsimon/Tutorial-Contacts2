@@ -5,7 +5,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER/GWT"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
-	<classpathentry kind="lib" path="C:/Users/glenn_simon/git/Tutorial-Contacts2/Contacts2/war/WEB-INF/lib/easymock-2.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/glenn_simon/git/Tutorial-Contacts2/Contacts2/war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Glenn/git/Tutorial-Contacts2/Contacts2/war/WEB-INF/lib/easymock-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Glenn/git/Tutorial-Contacts2/Contacts2/war/WEB-INF/lib/gwt-servlet.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
